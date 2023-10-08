@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UnnyanPathFoundation](https://unnyanpathfoundation.in/)
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **Django & Flutter Framework**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gzg2ngbcrDhWc3aMu4TH8EjxAKCR1E0_/view?usp=drive_link)
 
