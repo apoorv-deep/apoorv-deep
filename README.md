@@ -5,6 +5,7 @@
 
 - 🔧 **Currently working as a Backend Developer** at [Pixel Perfect Strategies](https://pixelperfectstrategies.com/)
 - 🌱 **Currently learning:** Advanced Django, REST API Design, and DevOps fundamentals (Docker, CI/CD, Linux, and Cloud Deployment)
+- 💻 Passionate about building scalable backend systems and automating workflows
 - 🌐 **Connect with me:**
   - [LinkedIn](https://www.linkedin.com/in/apoorv-deep)
   - [GitHub](https://github.com/apoorv-deep)
